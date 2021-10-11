@@ -1,5 +1,5 @@
 # MakeMyEvent
-This app will help you plan your event in most efficient way
+This app help you in planning and organizing the event in most efficient way
 
 MVP for MME 1.0.0
 
