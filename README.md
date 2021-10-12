@@ -6,7 +6,7 @@ MVP for MME 1.0.0
 * Payment Reconcillation
 * Fund Management
 * Event Communication
-* Program Schecdule
+* Program Schedule
 * Payment Gateway
 * Multiple User/Event Management
 * Vendor List
